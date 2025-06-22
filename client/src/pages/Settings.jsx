@@ -6,7 +6,7 @@ function Settings() {
 
   const handleUpdate = (e) => {
     e.preventDefault();
-    alert(`✅ Settings Updated:\nName: ${name}\nEmail: ${email}`);
+    alert(`Settings Updated:\nName: ${name}\nEmail: ${email}`);
   };
 
   return (

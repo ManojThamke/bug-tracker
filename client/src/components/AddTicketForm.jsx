@@ -25,7 +25,7 @@ function AddTicketForm({ projectId, onTicketCreated }) {
         }
       );
 
-      toast.success("✅ Ticket Created Successfully!");
+      toast.success("Ticket Created Successfully!");
       setTitle("");
       setDescription("");
       setPriority("Medium");

@@ -33,7 +33,7 @@ function Projects() {
       setProjects(res.data);
       setLoading(false);
     } catch {
-      toast.error("❌ Failed to load projects");
+      toast.error("Failed to load projects");
       setLoading(false);
     }
   };
@@ -52,10 +52,10 @@ function Projects() {
       await axios.delete(`http://localhost:5000/api/projects/${deletingProjectId}`, {
         headers: { Authorization: `Bearer ${token}` },
       });
-      toast.success("✅ Project deleted");
+      toast.success("Project deleted");
       fetchProjects();
     } catch {
-      toast.error("❌ Failed to delete project");
+      toast.error("Failed to delete project");
     } finally {
       setDeletingProjectId(null);
     }

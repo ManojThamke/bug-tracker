@@ -51,7 +51,7 @@ function DashboardHome() {
     <div className="space-y-6">
       <h2 className="text-2xl font-bold text-purple-800">Dashboard</h2>
 
-      {/* ✅ 4 Stats Cards */}
+      {/* 4 Stats Cards */}
       {loading ? (
         <p className="text-purple-600">Loading dashboard...</p>
       ) : (

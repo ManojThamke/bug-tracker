@@ -47,7 +47,7 @@ function CreateProject() {
           className="w-full border border-purple-300 p-2 rounded"
         />
 
-        {/* ✅ Project Status Dropdown */}
+        {/* Project Status Dropdown */}
         <select
           value={status}
           onChange={(e) => setStatus(e.target.value)}
