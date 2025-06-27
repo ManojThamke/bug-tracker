@@ -88,7 +88,21 @@ Open your browser at: **[http://localhost:3000](http://localhost:3000)**
 
 ## 📷 Screenshots
 
-> *Add screenshots of your Dashboard, Kanban Board, or any UI previews here*
+![Dadhboard](ScreenShots/Dashboard.jpeg)
+![Register](ScreenShots/Register.jpeg) 
+![Login](ScreenShots/Login.jpeg) 
+![My-Projects](ScreenShots/My-Projects.jpeg) 
+![Create-Ticket](ScreenShots/Create-Ticket.jpeg) 
+![Kanban-Board](ScreenShots/Kanban-Board.jpeg) 
+![Create-Projects](ScreenShots/Create-Projects.jpeg) 
+![Assigned-Issue](ScreenShots/Assigned-Issue.jpeg)
+![Edit-Ticket](ScreenShots/Edit-Ticket.jpeg) 
+![Edit-Project-Status](ScreenShots/Edit-Project-Status.jpeg) 
+![Logout-Confirmation](ScreenShots/Logout-Confirmation.jpeg) 
+![Delete-Project-Confirmation](ScreenShots/Delete-Project-Confirmation.jpeg) 
+![Filter&Search](ScreenShots/Filter&Search.jpeg) 
+![Settings](ScreenShots/Settings.jpeg) 
+
 
 ---
 
